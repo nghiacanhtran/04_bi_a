@@ -1,6 +1,13 @@
 # bi-a
 Quy tắc đánh bi-a
 
+## Qui tắc điều bi
+- Xác định bi tiếp theo
+- Xác định vùng bi cái sẽ chạy tới
+- Xác định góc ra của bi cái
+- Xác định đánh điểm ra ngọn trên bi cái
+- Xác định cú đánh là Re-Tro hay Cu-le
+- 
 ## Qui tắc ngắm bi
 - Xác định bi ảo theo hướng vào lỗ
 - Tìm điểm giao của mép bi ảo với bi đích
@@ -12,9 +19,4 @@ Quy tắc đánh bi-a
 - Đứng vào vị trí sao cho điểm giao của bi ảo với mi tâm trên một đường chéo
 - Bước chân trái lên điểm 10 giờ
 - Chân Phải hơi trùng xuống
-## Qui tắc điều bi
-- Xác định bi tiếp theo
-- Xác định vùng bi cái sẽ chạy tới
-- Xác định góc ra của bi cái
-- Xác định đánh điểm ra ngọn trên bi cái
-- Xác định cú đánh là Re-Tro hay Cu-le
+
