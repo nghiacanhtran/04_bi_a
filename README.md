@@ -6,7 +6,6 @@ Quy tắc đánh bi-a
 - Xác định vùng bi cái sẽ chạy tới
 - Xác định góc ra của bi cái
 - Xác định đánh điểm ra ngọn trên bi cái
-- Xác định cú đánh là Re-Tro hay Cu-le
 
 ## Qui tắc ngắm bi
 - Xác định bi ảo theo hướng vào lỗ
