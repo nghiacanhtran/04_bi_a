@@ -4,7 +4,9 @@ Quy tắc đánh bi-a
 ## Qui tắc điều bi
 - Xác định bi tiếp theo
 - Xác định vùng bi cái sẽ chạy tới
+  - Ưu tiên má dày
 - Xác định góc ra của bi cái
+  - Ưu tiên điều bi tự nhiên không phê cái
 - Xác định đánh điểm ra ngọn trên bi cái
 
 ## Qui tắc ngắm bi
@@ -17,5 +19,6 @@ Quy tắc đánh bi-a
 ## Qui tắc vào bộ
 - Đứng vào vị trí sao cho điểm giao của bi ảo với mi tâm trên một đường chéo
 - Bước chân trái lên điểm 10 giờ
+- Hạ người sao cho tay sau vuông góc với mũi chân sau
 - Chân Phải hơi trùng xuống
 
