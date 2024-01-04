@@ -14,10 +14,10 @@ Quy tắc đánh bi-a
 - Tìm điểm giao của mép bi ảo với bi đích
 - Xác định Cu lê hay trô
   - Đánh Cu lê
-    - Trong trường hợp thực hiện một cú đánh cu lê, dịch điểm giao cắt nửa đầu cơ theo hướng ngược lại với hướng tiến của bi đích
+    - Trong trường hợp thực hiện một cú đánh cu lê, dịch điểm giao cắt nửa đầu cơ
     - Trong trường hợp thực hiện một cú đánh trô bi, giữ nguyên điểm giao cắt ban đầu
 ## Qui tắc vào bộ
-- Đứng vào vị trí sao cho điểm giao của bi ảo với mi tâm trên một đường chéo
+- Đứng vào vị trí đối diện với điểm cắt,gót sau thẳng với điểm giao cắt
 - Bước chân trái lên điểm 10 giờ
 - Hạ người sao cho tay sau vuông góc với mũi chân sau
 - Chân Phải hơi trùng xuống
