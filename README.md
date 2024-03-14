@@ -17,8 +17,6 @@ Quy tắc đánh bi-a
     - Trong trường hợp thực hiện một cú đánh cu lê, dịch điểm giao cắt nửa đầu cơ
     - Trong trường hợp thực hiện một cú đánh trô bi, giữ nguyên điểm giao cắt ban đầu
 ## Qui tắc vào bộ
-- Bước chân phải lên, gót chân thẳng với điểm chết
-- Bước chân trái lên điểm 10 giờ
-- Hạ người sao cho tay sau vuông góc với mũi chân sau
-- Chân Phải hơi trùng xuống
+- Bước chân trái lên góc 10h
+- Hạ trọng tâm sao cho tay sau vuông góc 
 
