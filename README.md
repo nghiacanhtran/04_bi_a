@@ -11,7 +11,7 @@ Quy tắc đánh bi-a
 
 ## Qui tắc ngắm bi
 - Xác định bi ảo theo hướng vào lỗ.
-- Tìm điểm giao của mép bi ảo với bi đích, xác định hướng má bi.
+- TÌm điểm má bi ảo giao với má bi thật, đứng vào vị trí sao cho tia mắt nhìn thẳng vào điểm giao
 - Xác định Cu lê hay trô
   - Đánh Cu lê
     - Trong trường hợp thực hiện một cú đánh cu lê, dịch điểm giao cắt nửa đầu cơ
