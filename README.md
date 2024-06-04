@@ -19,5 +19,5 @@ Quy tắc đánh bi-a
     - Trong trường hợp thực hiện một cú đánh trô bi, giữ nguyên điểm giao cắt ban đầu
 ## Qui tắc vào bộ
 - Bước chân trái lên góc 10h
-- Hạ trọng tâm sao cho tay sau vuông góc 
+- Hạ trọng tâm sao cho mông và gót chân sau trên một đường thẳng 
 
